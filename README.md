@@ -29,6 +29,28 @@ This project is an **international airlines data analysis hub** packed with comp
 
 ---
 
+## 🎨 Dashboard Previews 📸
+
+### 📈 Dashboard 1: Passenger Trends Analysis
+![Passenger Trends](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111232.png)
+
+### 💹 Dashboard 2: Price & Performance Metrics
+![Price Analysis](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111436.png)
+
+### 📍 Dashboard 3: Route Network Insights
+![Route Analysis](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111513.png)
+
+### ⏰ Dashboard 4: Comprehensive Analytics Overview
+![Analytics Overview](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111613.png)
+
+### 🚀 Dashboard 5: Advanced Metrics Dashboard
+![Advanced Metrics](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111704.png)
+
+### 🎯 Dashboard 6: Key Performance Indicators
+![KPI Dashboard](https://github.com/Abad-87/International-Airlines-Analysis/raw/main/Screenshot%202026-06-24%20111807.png)
+
+---
+
 ## 📂 Your Cargo Hold (Repository Structure)
 
 ```
@@ -57,7 +79,12 @@ International-Airlines-Analysis/
 │       └── Test dataset for model validation (3MB)
 │
 ├── 📸 Screenshots/
-│   └── Visual dashboards from analysis work
+│   ├── Screenshot 2026-06-24 111232.png
+│   ├── Screenshot 2026-06-24 111436.png
+│   ├── Screenshot 2026-06-24 111513.png
+│   ├── Screenshot 2026-06-24 111613.png
+│   ├── Screenshot 2026-06-24 111704.png
+│   └── Screenshot 2026-06-24 111807.png
 │
 └── 📖 README.md
     └── This guide to your airline adventure!
@@ -91,7 +118,7 @@ International-Airlines-Analysis/
 
 **Option 1: Excel Dashboard** 
 1. Open `Airline Passengers Analysis.xlsx`
-2. Explore the pre-built dashboards and charts
+2. Explore the pre-built dashboards and charts (see previews above! 👆)
 3. Dive into the analysis! 📊
 
 **Option 2: Python Analysis**
@@ -123,16 +150,6 @@ print(df_prices.describe())
 
 ---
 
-## 🎨 Visual Gallery
-
-Check out the `Screenshot` files included for dashboard previews:
-- 📈 Passenger trends visualization
-- 💹 Price prediction charts  
-- 📍 Route network maps
-- ⏰ Delay analysis dashboards
-
----
-
 ## 🚀 Next Steps (Flight Plan)
 
 - [ ] Explore passenger time series data
@@ -147,16 +164,16 @@ Check out the `Screenshot` files included for dashboard previews:
 ## 🎓 What We're Analyzing
 
 ### 1️⃣ Passenger Trends Over Time
-Understand how international air travel has evolved with decades of passenger data.
+Understand how international air travel has evolved with decades of passenger data. See Dashboard 1 above for visual trends!
 
 ### 2️⃣ Flight Pricing Dynamics  
-Use machine learning to understand and predict what affects ticket prices - from seasonal factors to route competition.
+Use machine learning to understand and predict what affects ticket prices - from seasonal factors to route competition. Check Dashboard 2 for pricing insights!
 
 ### 3️⃣ Delay Root Causes
-Investigate patterns in flight delays to identify critical factors affecting on-time performance.
+Investigate patterns in flight delays to identify critical factors affecting on-time performance. Dashboard 4 shows comprehensive analytics!
 
 ### 4️⃣ Global Route Networks
-Map how airlines connect the world and identify key travel corridors.
+Map how airlines connect the world and identify key travel corridors. Dashboard 3 displays route network insights!
 
 ---
 
@@ -174,11 +191,12 @@ Map how airlines connect the world and identify key travel corridors.
 ## 📝 How to Use This Repository
 
 1. **Clone or Download** the repository
-2. **Pick a dataset** from the `Data/` folder
-3. **Load it** into your analysis tool (Python, R, Excel, Tableau, etc.)
-4. **Explore** the data with visualizations
-5. **Build models** for prediction and insights
-6. **Share your findings** - Happy to see what you discover! ✈️
+2. **View the Dashboards** - Check out the screenshot previews above to see what's possible!
+3. **Pick a dataset** from the `Data/` folder
+4. **Load it** into your analysis tool (Python, R, Excel, Tableau, etc.)
+5. **Explore** the data with visualizations
+6. **Build models** for prediction and insights
+7. **Share your findings** - Happy to see what you discover! ✈️
 
 ---
 
